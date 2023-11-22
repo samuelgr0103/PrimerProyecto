@@ -1,0 +1,44 @@
+.presentacion{
+    display: flex;
+    flex-direction: row;
+
+}
+.body{
+    background-color: beige;
+}
+.fotos{
+    padding: 10px;
+}
+
+.texto{
+    padding: 10px;
+}
+h1{
+    size: 14px;
+
+}
+.texto-titulo {
+    font-weight: bold;
+    font-size: 24px;    
+}
+.descripcion{
+    display: flex;
+    flex-direction: row;
+    background-color: aquamarine;
+}
+.perfil{
+    flex: 1;
+    padding: 50px;
+    background-color: aliceblue;
+}
+.habilidades{
+    flex: 1;
+    padding: 55px;
+}
+.skill .li{
+    line-height: 3;
+}
+li{
+    margin-top: 10px;
+
+}
